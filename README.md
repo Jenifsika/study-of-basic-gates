@@ -79,10 +79,11 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  xnor(I,A,B);
  endmodule
 ```
-![Screenshot 2025-03-21 143714](https://github.com/user-attachments/assets/87b532c7-adfd-4720-96b4-690c29976026)
 
 **Logic symbol & Truthtable**
 ![Screenshot 2025-03-21 143651](https://github.com/user-attachments/assets/fa44b796-47d0-4d33-8705-bbe9048c8b17)
+![image](https://github.com/user-attachments/assets/395346a4-b3f6-4075-b5d0-39cafd733fe4)
+
 
 **RTL realization Output:** 
 ![Screenshot 2025-03-21 143557](https://github.com/user-attachments/assets/db5f531f-6944-46a7-8265-073c3d1e8a46)
